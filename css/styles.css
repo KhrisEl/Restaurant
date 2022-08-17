@@ -8,3 +8,11 @@ body {
 .navbar-light {
     background-color: #fec128;
 }
+
+#brand-logo {
+    background: url('../img/brand-logo.jpg') ;
+    width: 150px;
+    height: auto;
+    margin: 10px 15px 10px 0;
+    object-fit: contain;
+}
